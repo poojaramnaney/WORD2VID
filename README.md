@@ -1,1 +1,1 @@
-# PipMyScript-Wiegnite
+# Word2Vid-Wiegnite
