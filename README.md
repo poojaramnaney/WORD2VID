@@ -1,11 +1,11 @@
 # Word2Vid-Wiegnite
 ## Introduction
-Introducing Pip My Script, a groundbreaking solution designed to tackle the common struggles college students encounter with PDF reading and comprehension. Recognizing the prevalent preference for video content over traditional text, Pip My Script offers a transformative approach, enabling users to effortlessly convert textual material into captivating video presentations. With this innovative tool, users can delve into their study materials through engaging visual content, enhancing understanding and retention while fostering creativity and adaptability.
+Introducing Word2Vid, a groundbreaking solution designed to tackle the common struggles college students encounter with PDF reading and comprehension. Recognizing the prevalent preference for video content over traditional text, Word2Vid offers a transformative approach, enabling users to effortlessly convert textual material into captivating video presentations. With this innovative tool, users can delve into their study materials through engaging visual content, enhancing understanding and retention while fostering creativity and adaptability.
 
 ### Does it solve any real-life problem?
-Yes, Pip My Script addresses the real-life problem of transforming textual content, such as PDF documents or prompts, into engaging video content. This solution caters to individuals, particularly visual learners, who prefer consuming information through videos rather than text-based materials. Additionally, it offers a more efficient way for users to convey information or ideas in a visually appealing format.
+Yes, Word2Vid addresses the real-life problem of transforming textual content, such as PDF documents or prompts, into engaging video content. This solution caters to individuals, particularly visual learners, who prefer consuming information through videos rather than text-based materials. Additionally, it offers a more efficient way for users to convey information or ideas in a visually appealing format.
 ### How marketable is the problem solved by the project?
-The problem solved by Pip My Script is highly marketable, especially in educational and professional settings where effective communication and content delivery are essential. By providing a seamless and innovative tool for creating videos from textual content, Pip My Script offers a competitive advantage over existing solutions. Its nominal pricing and additional feature of speech conversion further enhance its marketability, making it appealing to a wide range of users.
+The problem solved by Word2Vid is highly marketable, especially in educational and professional settings where effective communication and content delivery are essential. By providing a seamless and innovative tool for creating videos from textual content, Word2Vid offers a competitive advantage over existing solutions. Its nominal pricing and additional feature of speech conversion further enhance its marketability, making it appealing to a wide range of users.
 ### Is it safe, has it been tested?
 Yes, it is safe. It has been tested with different test case scenarios from long pdf to short texts.
 ### Is the project working without any errors?
@@ -115,7 +115,7 @@ Make sure you have a PDF file in the same directory. You can use any PDF file of
 https://youtu.be/t5sqSTbHwYg?feature=shared
 
 ## PDFs
-Presentation Link: Click [here](https://drive.google.com/file/d/1MYBd0IoHv2-GVprKm1tLwoM2sha2gYzr/view?usp=sharing) to go to our presentation.
+Presentation Link: Click [here](https://drive.google.com/file/d/1srPsmxxqm_-lnSIsVWTjz744kqfBwJo4/view?usp=sharing) to go to our presentation.
 
 
 
