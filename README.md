@@ -12,7 +12,7 @@ Yes, it is safe. It has been tested with different test case scenarios from long
 Yes, the project works without any errors. It just takes a little long time to generate video of a long text or pdf due to content parsing, so a little patience then is appreciated.
 
 ## Technology Used:
-* Frontend: Utilizing Fastn for a sleek and responsive user interface, ensuring an intuitive experience for users interacting with the platform.
+* Frontend: Utilizing React for a sleek and responsive user interface, ensuring an intuitive experience for users interacting with the platform.
 * OpenAI API Integration: Leveraging the OpenAI API to seamlessly incorporate relevant pictures into the video content, enhancing visual appeal and comprehension.
 * Backend Development: Employing Python for robust backend functionality, facilitating efficient processing and management of user requests and data.
 
@@ -43,10 +43,11 @@ Yes, the project works without any errors. It just takes a little long time to g
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `fastn build`            | FASTN builder installs all `FASTN` dependencies        |
-| `fastn serve`            | Starts local dev server at available port`localhost:8000`          |
+| Command                |
+| :--------------------- | 
+| `cd Frontend`          | 
+| `npm i`                | 
+| `npm start`            |
 
 ## 🧞  Commands for Backend Setup
 
