@@ -14,7 +14,7 @@ function Feature() {
         <Row>
         
         <h1 className="home-about-description" style={{ fontSize: "3.3em" }}>
-        Why it is Worth Choosing PipMyScript
+        Why it is Worth Choosing WORD2VID
             </h1>
             <h4 style={{ color: "white" }}>
             Choosing Pip My Script is a decision driven by expertise and excellence. 

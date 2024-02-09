@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <h1 className="heading-about" style={{ fontSize:"60px", color: "#6BC6FF"}}>
-          Why it is Worth Choosing PipMyScript
+          Why it is Worth Choosing WORD2VID
 
            
             <br />
