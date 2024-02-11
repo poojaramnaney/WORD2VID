@@ -2,7 +2,6 @@ flask
 flask_cors 
 openai
 gtts 
-Re
 os
 urllib.request
 moviepy
