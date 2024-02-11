@@ -13,7 +13,7 @@ with open("output_file.txt", "r") as file:
     text = file.read()
 
 # split the text by , and .
-paragraphs = re.split(r"[,.]", text)
+paragraphs = re.split(r"[,.:;]", text)
 
 # create folders
 os.makedirs("audio")

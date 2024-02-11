@@ -24,6 +24,6 @@ generated_text = completions.choices[0].text
 # save text in file
 print(generated_text)
 with open("output_file.txt", "w") as file:
-    file.write(generated_text.strip())
+    file.write(generated_text)
 
 print("text generated !!")
